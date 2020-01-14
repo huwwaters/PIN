@@ -1,6 +1,8 @@
 # PIN
 Cronfa adnoddau prosesu iaith naturiol (PIN) [NLP]
 
+Y gobaith yw ychwanegu adnoddau a chyfarpar i alluogi dadansoddi uwch o ddefnydd y Gymraeg. 
+
 
 ## Atal-eiriau
 Rhain yw'r geiriau sydd fwyaf cyffredin mewn ysgrifau. Maent yn hanfodol i frawddeg fod yn synhwyrol, ond yn ychwanegu sŵn i'r gwybodaeth mwyaf pwysig. E.e. "Mae Huw wedi bod i'r siop." Yr atal eiriau yw 'mae', 'wedi', 'bod', 'i + y'. Y geiriau dros ben, a'r rhai sydd o ddiddordeb mwyaf yw 'Huw' a 'siop'.
