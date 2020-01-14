@@ -12,4 +12,4 @@ I greu'r rhestr hwn:
 
 Yn dibynnu ar y cymhwysiad, caiff rhai geiriau eu hystyried fel atal-eiriau pan fo eraill ddim. Dyma gychwyn. 
 
-Yn y ffeil atal-eiriau, mae rhestr o'r geiriau unigol a ddarganfyddid yn ogystal â'u hamlder o fewn y 128 dogfen. Mae'r geiriau wedi eu trefnu gyda'r mwyaf cyffredin tua'r brig.
+Yn y ffeil atal-eiriau, mae rhestr o'r geiriau unigol a ddarganfyddid yn ogystal â'u hamlder o fewn y 128 dogfen. Mae'r geiriau wedi eu trefnu gyda'r mwyaf cyffredin tua'r brig. Ystyriwch oes y cyhoeddiadau, y cynulleidfa, a'r cynnydd/esblygiad mewn iaith ysgrifenedig.
