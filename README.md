@@ -1,7 +1,7 @@
 # PIN
 Cronfa adnoddau prosesu iaith naturiol (PIN) [NLP]
 
-Y gobaith yw ychwanegu adnoddau a chyfarpar i alluogi dadansoddi uwch o ddefnydd y Gymraeg. 
+Y gobaith yw ychwanegu adnoddau a chyfarpar dros amser, i alluogi dadansoddi uwch o ddefnydd y Gymraeg. 
 
 
 ## Atal-eiriau
